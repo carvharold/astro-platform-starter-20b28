@@ -1,4 +1,4 @@
-carvharold#https://@harold carvalho.com.br 
+f8b333c690e13a594ff97043856a16f6c3f6fd48carvharold#https://@harold carvalho.com.br 
 Astro on Netlify Platform Starter
 
 [Live Demo](https://astro-platform-starter.netlify.app/)
