@@ -29,7 +29,7 @@ All commands are run from the root of the project, from a terminal:
 | [Node.js](https://nodejs.org/) v18.14+.                                      |
 | (optional) [nvm](https://github.com/nvm-sh/nvm) for Node version management. |carvharold-astro-platform-starter-20b28 
 
-1. Clone this repository, then run `npm install` in its root directory.
+1. Clone this repository, then run `npm install`20b28 in its root directory.
 
 2. For the starter to have full functionality locally (e.g. edge functions, blob store), please ensure you have an up-to-date version of Netlify CLI. Run:
 
